@@ -1,0 +1,16 @@
+.Card{
+    box-shadow: 6px 6px 10px 0px rgba(117,111,117,1);
+    display: flex;
+    width: 40vw;
+    margin-bottom: 20px;
+}
+
+.datos{
+    display: flex;
+    flex-direction: column;
+}
+
+.Card p{
+    font-size: 2 em;
+    font-family: Arial, Helvetica, sans-serif;
+}
